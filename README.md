@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m Yassin Ait Elhardouf<br>👯 I’m looking to collaborate on HQPAcademy<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning React Native<br>💬 Ask me about HQPAcademy<br>⚡ Fun fact I love cats
+🔭 I’m Yassin Ait Elhardouf<br>👯 collaborate With Kreypton<br>🤝<br>🌱 I’m currently learning React Native<br>💬 Ask me about HQPAcademy<br>⚡ Fun fact I love cats
 
 ## 🌐 Socials:
 
